@@ -1,4 +1,4 @@
-<h1>Hello, I'm DeVante! <br/><a href="https://github.com/DeVante-IT">System Administrator</a>, <a href="www.linkedin.com/in/devante-thomas-66b6a318a">IT Professional</a>, <a href="https://www.youtube.com/@littlelatetech6298">YouTube</a></h1>
+<h1>Hello, I'm DeVante! <br/><a href="https://github.com/DeVante-IT">System Administrator</a>, <a href="https://www.linkedin.com/in/devante-thomas-66b6a318a">IT Professional</a>, <a href="https://www.youtube.com/@littlelatetech6298">YouTube</a></h1>
 
 <h2> System Administration Projects:</h2>
 
