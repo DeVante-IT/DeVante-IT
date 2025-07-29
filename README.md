@@ -26,7 +26,7 @@
 <h2>YouTube Videos</h2>
 
 - [My home network setup](https://www.youtube.com/watch?v=vVUrx2jMGc8)
-
+- [My homelab software & services setup](https://youtu.be/53fNipVeAJs)  
 <h2>  Connect with me:</h2>
 
 
